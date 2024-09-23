@@ -8,5 +8,9 @@ namespace TaskChain.Models
 {
     public class Permission : Auditable
     {
+        public bool ChangePermit { get; set; }
+        public bool ViewPermit { get; set; }
+        public int RoleID { get; set; }
+        public Role Role { get; set; }
     }
 }
