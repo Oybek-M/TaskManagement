@@ -128,7 +128,7 @@
     <Compile Include="Models\AdminPanels\Permission.cs" />
     <Compile Include="Models\AdminPanels\Role.cs" />
     <Compile Include="Models\AdminPanels\User.cs" />
-    <Compile Include="Models\Company.cs" />
+    <Compile Include="Models\Organization.cs" />
     <Compile Include="Models\PartnerCompany.cs" />
     <Compile Include="Models\ProjectPhoto.cs" />
     <Compile Include="Models\Project.cs" />
